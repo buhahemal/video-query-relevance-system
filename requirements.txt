@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai-whisper
+sentence-transformers
+faiss-cpu
+numpy
+pydantic
+python-multipart
+chromadb
